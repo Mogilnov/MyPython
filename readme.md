@@ -1,10 +1,10 @@
 
 - Seminars
     - Seminar_01
-        - Ex001 
+        - Ex_2 Найдите сумму цифр трехзначного числа [КОД](MyPython/Seminars/Seminar_001/Ex_2.py)
           
-        - Ex002.2
-        nar_01/Ex_008.2/Program.cs)
+        - Ex_4
+        
     - Seminar_02
-        - Ex010
+        - Ex
         
